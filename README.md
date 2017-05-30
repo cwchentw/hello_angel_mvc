@@ -10,8 +10,8 @@ Angel *per se* is a nice Dart web framework; however, it is a bit under-document
 
 ```
 # Get this repo.
-$ git clone https://github.com/cwchentw/hello_angel.git
-$ cd hello_angel
+$ git clone https://github.com/cwchentw/hello_angel_mvc.git
+$ cd hello_angel_mvc
 
 # Start with `angel`.
 $ angel start
