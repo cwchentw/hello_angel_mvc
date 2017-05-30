@@ -1,4 +1,4 @@
-name: hello_angel
+name: hello_angel_mvc
 dependencies:
     angel_common: ^1.0.0
     angel_static: ^1.1.0
