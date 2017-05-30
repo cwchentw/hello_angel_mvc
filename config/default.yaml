@@ -1,0 +1,4 @@
+# Default server configuration.
+host: 127.0.0.1
+port: 8080
+jwt_secret: "6388bv10m6X8c2lm87V8526112x32e28"
